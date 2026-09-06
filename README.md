@@ -6,7 +6,7 @@
 
 Product-minded engineer building dependable web and mobile experiences for fintech, lending, payments, and enterprise SaaS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sharma-923b12130/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-24292f?logo=googlechrome&logoColor=white)](https://portfolio-vite-tau-nine.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-BB4430?logo=gmail&logoColor=white)](mailto:sjshubham1995@gmail.com)
 
@@ -64,7 +64,7 @@ I maintain a focused [Backend Learning Portfolio](https://github.com/Shubham-Sha
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/shubham-sharma) · [Portfolio](https://portfolio-vite-tau-nine.vercel.app) · [Repositories](https://github.com/Shubham-Sharma1995?tab=repositories) · [Contribution activity](https://github.com/Shubham-Sharma1995?tab=overview)
+[LinkedIn](https://www.linkedin.com/in/shubham-sharma-923b12130/) · [Portfolio](https://portfolio-vite-tau-nine.vercel.app) · [Repositories](https://github.com/Shubham-Sharma1995?tab=repositories) · [Contribution activity](https://github.com/Shubham-Sharma1995?tab=overview)
 
 <div align="center">
 
